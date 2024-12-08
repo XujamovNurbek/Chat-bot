@@ -1,0 +1,1 @@
+Bu chat bot yuklngan fayllar bo'yicha savollaringizga javob beradi
